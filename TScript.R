@@ -1,11 +1,13 @@
 # Headline
 
-x <- rnorm(100)
+x <- rnorm(200)
 
-y <- rnorm(100)
+y <- rnorm(200)
 
-z <- rnorm(100)
+z <- rnorm(200)
 
 #Viktig feature:
 
 #New feature:
+
+#Crazy stuff:
