@@ -8,5 +8,5 @@ z <- rnorm(500)
 
 #Viktig feature:
 
-#Crazy stuff:
+#Mango
 #New feature - adding something here
