@@ -7,3 +7,5 @@ y <- rnorm(100)
 z <- rnorm(100)
 
 #Viktig feature:
+
+#New feature:
