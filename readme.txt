@@ -1,8 +1,7 @@
 Readme file
 Mango
 Per
-Mango
-Test - mango 4
+Mango - endre på denne linjen
 23
 1
 4
